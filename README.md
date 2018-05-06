@@ -12,6 +12,8 @@ npm install
 npm start
 ```
 
+Then try editing a file, and watch the UI update in real time! For more fun, try updating effects.js (Undux's more powerful version of Redux reducers).
+
 ### License
 
 MIT
