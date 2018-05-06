@@ -1,7 +1,13 @@
 # Undux Hot Module Reloading Demo
-## Using Create-React-App
 
 > Hot module reloading demo for [Undux](https://github.com/bcherny/undux)
+
+This demo uses:
+
+- [Undux](https://github.com/bcherny/undux)
+- [React](https://reactjs.org/)
+- [Create-React-App](https://github.com/facebook/create-react-app)
+- Webpack's [Hot Module Replacement](https://webpack.js.org/concepts/hot-module-replacement/)
 
 ### Install
 
